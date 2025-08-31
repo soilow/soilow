@@ -1,6 +1,11 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/guilds/749922893879413105/draw"/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/749922893879413105/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 <!--
 **soilow/soilow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
